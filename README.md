@@ -14,7 +14,7 @@ The Smart AR Helmet System is designed to enhance astronaut safety, efficiency, 
     ```
     git clone https://github.com/your-username/smart-ar-helmet.git
     ```
-2. Install required dependencies (if applicable):
+2. Install required dependencies:
     ```
     pip install -r requirements.txt
     ```

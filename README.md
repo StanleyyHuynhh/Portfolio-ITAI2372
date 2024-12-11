@@ -1,32 +1,26 @@
 # Smart AR Helmet System for Astronauts
 
-## Overview
-The Smart AR Helmet System is designed to enhance astronaut safety, efficiency, and situational awareness during extravehicular activities (EVAs). This system integrates AI-powered augmented reality (AR) technology into an astronaut's helmet to provide real-time health monitoring, task assistance, and navigational support.
+## Project Overview
+This Jupyter notebook simulates the Smart AR Helmet System designed to enhance astronaut safety and efficiency during EVAs (extravehicular activities). It integrates augmented reality (AR) with AI for real-time health monitoring, task assistance, and navigation.
 
-## Features
-- **Health Monitoring**: Real-time health metrics, including heart rate, oxygen levels, and respiratory rate.
-- **Task Assistance**: Step-by-step task guidance displayed directly on the helmet's HUD.
-- **Navigation Assistance**: AR-guided navigation to help astronauts during EVAs.
+### Features:
+- **Health Monitoring**: Real-time health metrics such as heart rate, oxygen levels, and respiratory rate.
+- **Task Assistance**: AR-guided step-by-step instructions during tasks.
 - **Emergency Alerts**: Immediate notifications for critical health or safety issues.
-  
+
 ## Installation and Setup
-1. Clone this repository:
-    ```
+1. Clone the repository:
+    ```bash
     git clone https://github.com/your-username/smart-ar-helmet.git
     ```
-2. Install required dependencies:
-    ```
+2. Install dependencies:
+    ```bash
     pip install -r requirements.txt
     ```
 
 ## Usage
-1. To start the system, run the following command:
-    ```
-    python smart_ar_helmet.py
-    ```
-
-## Contributing
-Feel free to fork this project and submit pull requests. Contributions are welcome to enhance the AR system's capabilities and improve astronaut safety.
+1. Open `SmartARHelmet.ipynb` in Jupyter Notebook or Jupyter Lab.
+2. Run each cell to simulate the AR helmet functionality.
 
 ## License
 This project is licensed under the MIT License.
